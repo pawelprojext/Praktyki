@@ -1,0 +1,15 @@
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\bin\Debug\net6.0\Hello World app.exe
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\bin\Debug\net6.0\Hello World app.deps.json
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\bin\Debug\net6.0\Hello World app.runtimeconfig.json
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\bin\Debug\net6.0\Hello World app.dll
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\bin\Debug\net6.0\Hello World app.pdb
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\obj\Debug\net6.0\Hello World app.csproj.AssemblyReference.cache
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\obj\Debug\net6.0\Hello World app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\obj\Debug\net6.0\Hello World app.AssemblyInfoInputs.cache
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\obj\Debug\net6.0\Hello World app.AssemblyInfo.cs
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\obj\Debug\net6.0\Hello World app.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\obj\Debug\net6.0\Hello World app.dll
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\obj\Debug\net6.0\refint\Hello World app.dll
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\obj\Debug\net6.0\Hello World app.pdb
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\obj\Debug\net6.0\Hello World app.genruntimeconfig.cache
+C:\Users\Xopero\Documents\Praktyki\Hello world\Hello World app\Hello World app\obj\Debug\net6.0\ref\Hello World app.dll
