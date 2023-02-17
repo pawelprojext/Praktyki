@@ -1,0 +1,17 @@
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\bin\Debug\net6.0\Gitlab_Zadanie1.exe
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\bin\Debug\net6.0\Gitlab_Zadanie1.deps.json
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\bin\Debug\net6.0\Gitlab_Zadanie1.runtimeconfig.json
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\bin\Debug\net6.0\Gitlab_Zadanie1.dll
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\bin\Debug\net6.0\Gitlab_Zadanie1.pdb
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\obj\Debug\net6.0\Gitlab_Zadanie1.csproj.AssemblyReference.cache
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\obj\Debug\net6.0\Gitlab_Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\obj\Debug\net6.0\Gitlab_Zadanie1.AssemblyInfoInputs.cache
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\obj\Debug\net6.0\Gitlab_Zadanie1.AssemblyInfo.cs
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\obj\Debug\net6.0\Gitlab_Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\obj\Debug\net6.0\Gitlab_Zadanie1.dll
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\obj\Debug\net6.0\refint\Gitlab_Zadanie1.dll
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\obj\Debug\net6.0\Gitlab_Zadanie1.pdb
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\obj\Debug\net6.0\Gitlab_Zadanie1.genruntimeconfig.cache
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\obj\Debug\net6.0\ref\Gitlab_Zadanie1.dll
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Xopero\Documents\Praktyki\Gitlab_Zadanie1\Gitlab_Zadanie1\obj\Debug\net6.0\Gitlab_Zadanie1.csproj.CopyComplete
