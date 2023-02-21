@@ -5,6 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace Gitlab
 {
@@ -13,8 +14,7 @@ namespace Gitlab
         public Token getToken(string username, string password)
         {
             using (var httpClient = new HttpClient())
-            {
-
+            {   
                 var req= new HttpRequestMessage(HttpMethod.Post, $"https://gitlab.com/oauth/token?grant_type=password&username={username}&password={password}");
                 var res = httpClient.SendAsync(req).Result;
                 var resContent = res.Content.ReadAsStringAsync().Result;
