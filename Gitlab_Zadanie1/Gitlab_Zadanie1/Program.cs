@@ -10,8 +10,8 @@ using Gitlab;
     Console.WriteLine("Enter login: ");
     string login = Console.ReadLine();
 
-    Console.WriteLine("Enter password: ");
-    string pswd = Console.ReadLine();
+Console.WriteLine("enter password: ");
+string pswd = Console.ReadLine();  
 
   
     token = RequestManager.getToken(login, pswd);
@@ -36,7 +36,7 @@ if (token.acces_token != null)
 
     notes.ForEach(Notes =>
     {
-        Console.WriteLine("Note: " + Notes.body + "Note author: " + Notes.author.Name);
+        Console.WriteLine("Note: " + Notes.body + "Note author: " + Notes.author.name);
     });
 
     Console.WriteLine("Content of note: ");
