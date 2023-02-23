@@ -1,0 +1,15 @@
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\bin\Debug\net6.0\Wyszukiwanie i zliczanie liter.exe
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\bin\Debug\net6.0\Wyszukiwanie i zliczanie liter.deps.json
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\bin\Debug\net6.0\Wyszukiwanie i zliczanie liter.runtimeconfig.json
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\bin\Debug\net6.0\Wyszukiwanie i zliczanie liter.dll
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\bin\Debug\net6.0\Wyszukiwanie i zliczanie liter.pdb
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\obj\Debug\net6.0\Wyszukiwanie i zliczanie liter.csproj.AssemblyReference.cache
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\obj\Debug\net6.0\Wyszukiwanie i zliczanie liter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\obj\Debug\net6.0\Wyszukiwanie i zliczanie liter.AssemblyInfoInputs.cache
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\obj\Debug\net6.0\Wyszukiwanie i zliczanie liter.AssemblyInfo.cs
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\obj\Debug\net6.0\Wyszukiwanie i zliczanie liter.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\obj\Debug\net6.0\Wyszukiwanie i zliczanie liter.dll
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\obj\Debug\net6.0\refint\Wyszukiwanie i zliczanie liter.dll
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\obj\Debug\net6.0\Wyszukiwanie i zliczanie liter.pdb
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\obj\Debug\net6.0\Wyszukiwanie i zliczanie liter.genruntimeconfig.cache
+C:\Users\Xopero\Documents\Praktyki\Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter\obj\Debug\net6.0\ref\Wyszukiwanie i zliczanie liter.dll
