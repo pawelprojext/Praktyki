@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k6zlux1HdKDdeRIHDukyHSxfOcfl0j/Hae8hF+bfdPT1V7PigSKaKhF3PQnrar2Gr5ANa2am+CzPGKZ7TSNwSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xopero\\Documents\\Praktyki\\DiffViewer\\DiffViewer\\DiffViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xopero\\.nuget\\packages\\diffplex\\1.7.1\\diffplex.1.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

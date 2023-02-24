@@ -1,0 +1,17 @@
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\bin\Debug\net6.0\DiffViewer.exe
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\bin\Debug\net6.0\DiffViewer.deps.json
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\bin\Debug\net6.0\DiffViewer.runtimeconfig.json
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\bin\Debug\net6.0\DiffViewer.dll
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\bin\Debug\net6.0\DiffViewer.pdb
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\bin\Debug\net6.0\DiffPlex.dll
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\obj\Debug\net6.0\DiffViewer.csproj.AssemblyReference.cache
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\obj\Debug\net6.0\DiffViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\obj\Debug\net6.0\DiffViewer.AssemblyInfoInputs.cache
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\obj\Debug\net6.0\DiffViewer.AssemblyInfo.cs
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\obj\Debug\net6.0\DiffViewer.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\obj\Debug\net6.0\DiffViewer.csproj.CopyComplete
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\obj\Debug\net6.0\DiffViewer.dll
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\obj\Debug\net6.0\refint\DiffViewer.dll
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\obj\Debug\net6.0\DiffViewer.pdb
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\obj\Debug\net6.0\DiffViewer.genruntimeconfig.cache
+C:\Users\Xopero\Documents\Praktyki\DiffViewer\DiffViewer\obj\Debug\net6.0\ref\DiffViewer.dll

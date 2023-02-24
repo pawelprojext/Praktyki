@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wyszukiwanie i zliczanie liter", "Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter.csproj", "{605D24D5-E082-4CBC-BC10-558A57F735EA}"
+=======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wyszukiwanie i zliczanie liter", "Wyszukiwanie i zliczanie liter\Wyszukiwanie i zliczanie liter.csproj", "{605D24D5-E082-4CBC-BC10-558A57F735EA}"
+>>>>>>> 0c1085240d30a17d64f434e557c9972a2fc8011f
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
