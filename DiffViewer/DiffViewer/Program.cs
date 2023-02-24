@@ -13,7 +13,6 @@ static void Main(string[] args)
 
     foreach (var WhichLine in diff.Lines)
     {   
-        if (WhichLine.Position.HasValue) Console.Write(WhichLine.Position.Value);
         if (WhichLine.Type == ChangeType.Inserted)
         {
             Console.ForegroundColor = ConsoleColor.Green;
@@ -24,7 +23,7 @@ static void Main(string[] args)
             Console.Write("-");
         } else {
             Console.ForegroundColor = ConsoleColor.White;
-            Console.Write("  ");
+            Console.Write(" ");
         }
           Console.WriteLine(WhichLine.Text);
     }
